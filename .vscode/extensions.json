@@ -1,0 +1,8 @@
+{
+	"recommendations": [
+		"github.vscode-github-actions",
+		"editorconfig.editorconfig",
+		"biomejs.biome",
+    "esbenp.prettier-vscode"
+	]
+}
