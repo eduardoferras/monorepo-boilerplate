@@ -3,3 +3,14 @@
 <h4 align="center">
 		🚧  Status: 🚀 In progress...  🚧
 </h4>
+
+[Technologies](#technologies)
+</div>
+
+## Technologies
+
+### Web
+
+- Next.js - React.js Framework
+- TypeScript
+- Biome - Code Formatter and Linter
